@@ -1,0 +1,17 @@
+59.1: 0
+
+59.2: 181
+
+59.3: liczby o mocy 0:0
+liczby o mocy 1:381
+liczby o mocy 2:344
+liczby o mocy 3:171
+liczby o mocy 4:76
+liczby o mocy 5:22
+liczby o mocy 6:4
+liczby o mocy 7:0
+liczby o mocy 8:2
+liczby o mocy 9:0
+
+min o mocy 1: 11
+max o mocy 1: 999342708

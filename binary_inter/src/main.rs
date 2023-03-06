@@ -97,5 +97,12 @@ fn to_decimal() {
             rem_sum = 1.0 - rem_sum;
         }
     }
-    print!("{}", sum - rem_sum);
+    print!(
+        "{}",
+        if binary_str.as_bytes()[0] as char == '1' {
+            sum - rem_sum
+        } else {
+            sum + rem_sum
+        }
+    );
 }
