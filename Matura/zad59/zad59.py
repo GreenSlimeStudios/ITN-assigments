@@ -92,6 +92,6 @@ with open("wyniki_liczby.txt","w") as file:
     file.write(str(ile));
     file.write("\n\n59.3: ");
     for i in range(0,len(moce)):
-        file.write("liczby o mocy "+str(i)+":"+str(moce[i])+"\n")
+        file.write("liczby o mocy "+str(i)+": "+str(moce[i])+"\n")
     file.write("\nmin o mocy 1: "+str(min))
     file.write("\nmax o mocy 1: "+str(max))
