@@ -4,9 +4,6 @@ import math
 one = int(random.random()*100)+1
 two = int(random.random()*100)+1
 
-# one=68
-# two=16
-
 razem = one + two
 liczby=[]
 print(one,two,razem)
